@@ -1,0 +1,9 @@
+c:\users\admin\source\repos\EmailApp\EmailApp\bin\EmailApp.dll.config
+c:\users\admin\source\repos\EmailApp\EmailApp\bin\EmailApp.dll
+c:\users\admin\source\repos\EmailApp\EmailApp\bin\EmailApp.pdb
+c:\users\admin\source\repos\EmailApp\EmailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\source\repos\EmailApp\EmailApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\source\repos\EmailApp\EmailApp\obj\Debug\EmailApp.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\EmailApp\EmailApp\obj\Debug\EmailApp.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\EmailApp\EmailApp\obj\Debug\EmailApp.dll
+c:\users\admin\source\repos\EmailApp\EmailApp\obj\Debug\EmailApp.pdb
